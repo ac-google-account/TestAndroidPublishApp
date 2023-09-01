@@ -4,8 +4,8 @@ android {
     compileSdkVersion 31
     defaultConfig {
         applicationId 'com.testandroidpublishapp.akvelon3'
-        minSdkVersion 31
-        targetSdkVersion 31
+        minSdkVersion 32
+        targetSdkVersion 32
         versionCode 1
         versionName "1.0"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
